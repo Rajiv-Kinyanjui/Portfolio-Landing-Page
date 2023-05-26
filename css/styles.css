@@ -29,6 +29,13 @@ h1{
 .projects{
     border: 8px solid black;
     width: 25%;
-    margin: 30px;
+    margin: 60px;
     padding: 10px;
+}
+
+.aboutme{
+    border: 6px solid gray;
+    margin: 20px;
+    width: 80%;
+    padding: 20px;
 }
